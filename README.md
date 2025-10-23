@@ -11,7 +11,3 @@ A simple **Python desktop app** built with **Tkinter** that displays random moti
 
 ---
 
-## 🖼️ Preview
-*(Optional — Add a screenshot of your app here)*  
-```bash
-![App Screenshot](screenshot.png)
